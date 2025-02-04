@@ -14,6 +14,6 @@ The dataset includes recordings from a diverse range of instruments, categorized
 
 In this project, I have worked on the NSynth audio dataset, its preprocessing and analysis.
 
-I performed various visualizations like waveforms and spectrogram heatmaps to understand the instrument distributions and extracted features like MFCCs to uncover valuable insights into audio structures and frequencies.
+I performed various visualizations like waveforms and spectrogram heatmaps to understand the instrument distributions and extracted features like Mel-Frequency Cepstral Coefficients (MFCCs) to uncover valuable insights into audio structures and frequencies.
 
 I also applied transformations like pitch shifting and time stretching to demonstrate audio augmentation techniques.
